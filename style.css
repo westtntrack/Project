@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+}
+
+/* Navigation*/
+@media screen and (max-width: 1200px) {
+    body {
+      background-color: pink;
+    }
+
+
+
+
+
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+
+
+
+
+    
+  }
